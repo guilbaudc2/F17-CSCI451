@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bb93cf4498a37e67d349186293382f13f0c47e3">
+        <dex dex="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_99ab45db18069a267bbb6abb8db41468bb76a7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50500942b86a1a3d177e00dde6e9f0125eb62392\classes.dex" />
+    </item>
+
+</items>
