@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">27sp</dimen>
+    <dimen name="header_size">35sp</dimen>
+    <dimen name="spacing">22sp</dimen>
+    <dimen name="button_text_size">27sp</dimen>
+</resources>
