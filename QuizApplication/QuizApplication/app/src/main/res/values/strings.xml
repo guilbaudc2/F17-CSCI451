@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geography Quiz</string>
+    <string name="homepage_text">Quizing you on all things geography, from states to countries! Click continue to get started!</string>
+    <string name="app_continue">Continue</string>
+    <string name="proceed">Next</string>
+    <string name="results_intro_text">You made it to the end!! Let\'s see how you did!</string>
+
+</resources>
