@@ -1,15 +1,11 @@
 [
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
@@ -18,6 +14,10 @@
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",

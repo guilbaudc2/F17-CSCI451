@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "outputFile": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "file": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

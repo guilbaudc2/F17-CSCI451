@@ -4,8 +4,8 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
@@ -20,16 +20,28 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
@@ -38,6 +50,10 @@
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
@@ -52,32 +68,20 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -86,10 +90,6 @@
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
@@ -108,15 +108,15 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

@@ -3,21 +3,138 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Catherine\.android\build-cache\63eb3fd8045d65a414a483213ba5536e7837402a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="8bb93cf4498a37e67d349186293382f13f0c47e3">
-        <dex dex="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_99ab45db18069a267bbb6abb8db41468bb76a7bb\classes.dex" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1028ff86e56e23c8fd0c9a9dbf40ef03b8470c8e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Catherine\.android\build-cache\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5249aefe75d11ebfcca982a4f7c2425d4eed276\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_68901d7fe2fc0303c263535521d6eff4ac982877\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\df49e70f79d11c04f7bbc7d5b155fe52b5637843\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b86c36bcff19c644ae999664e76476a7ad463ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa8467da290c34d435967b3d24041a9ae4efd0b9">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8c73127bca62859d5edbacc641746d07ec7fa6ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\20f8aca1f7df9abdc968c454836ffc53e3854b40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e35a7c420f50e3ac179e1c9df2481baba74510e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\707ef7b2d09f51639f290cae29229d8fb0d4b871\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0c8d7386d97da31040bcb0e2c434cc014755b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\f16f15f510d0c20d4aa8b5427ba891aa1c06b60e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f269539a89977f76e98e7ee9d4bde033471ff950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_0ff3ac7cfca15808cbb8ed42c084a744663ad25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\e6af399336b04a4e583a49b9b5ef1626029dea60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffd82bdccd548d03aa1e49cb0163ea4d86d9a7b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\53bf0688599334b456e1c4f98b3e315ddfad6716\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bc307934533036cb3a5573272b4a95e2fb9fb0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\aa2a8c6532cb8e23cc9246df017c03cdc08ca7b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22e10a4418ee0058e98166bdf3a3d122ea0b7416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\plantep\AndroidStudioProjects\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50500942b86a1a3d177e00dde6e9f0125eb62392\classes.dex" />
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f31f3b064ee472ff8b0a00a598e2c03611634676\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\3c4a0e2936876d9f5cbb82ef89c6b658eabcb71b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bd1c6daf2ebfd008e46d7c6385f53330bd480f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Catherine\.android\build-cache\0a55daf4aa3875b265353a761d68c2657b37ecfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Catherine\Downloads\JavaShoppingListBeginning(1)\JavaShoppingListBeginning\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e793256f305641a36aa855beeb6588b76005634\classes.dex" />
     </item>
 
 </items>

@@ -4,24 +4,24 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
@@ -40,11 +40,11 @@
         "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\Catherine\\Downloads\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Catherine\\.android\\build-cache\\ea495735f5f14a3b9f2127775c1fdedf9d2ad034\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "Z:\\JavaShoppingListBeginning(1)\\JavaShoppingListBeginning\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Android\\.android\\build-cache\\4ce4a035e80c189367882406b21a6092c9d72676\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\plantep\\AndroidStudioProjects\\JavaShoppingList\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\plantep\\.android\\build-cache\\d09ad3802377b82440dad2c1aaa1cd74ae43e8c5\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

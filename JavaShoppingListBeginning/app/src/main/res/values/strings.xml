@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="hint_add_count">How Many?</string>
+    <string name="hint_add_item">Item Name</string>
+    <string name="hint_add_category">Item Category</string>
+    <string name="check_cart">In Cart?</string>
+</resources>
