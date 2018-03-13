@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smoothie Recipes</string>
+    <string name="reviews">Reviews:</string>
+    <string name="new_review">Add Your Own Rating and Review:</string>
+    <string name="submit">Submit Rating</string>
+    <string name="recipe_header">List of Smoothie Recipes:</string>
+</resources>
