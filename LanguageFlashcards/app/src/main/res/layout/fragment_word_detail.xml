@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/list_size"
+    tools:context="com.example.android.languageflashcards.WordDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/word_name"
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/list_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/show_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_def"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        />
+
+    <TextView
+        android:id="@+id/word_pos"
+        android:textSize="@dimen/list_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/spacing"/>
+
+    <TextView
+        android:id="@+id/word_definition"
+        android:textSize="@dimen/list_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
