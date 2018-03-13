@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layoutPadding"
+    android:background="@color/background"
+    tools:context="com.example.android.landlayapplication.BookIntroFragment"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/title"
+        android:padding="@dimen/spacing"
+        android:layout_margin="@dimen/spacing"
+        android:text="@string/outro_text"/>
+
+
+    <ImageView
+        android:id="@+id/imageProceedBtn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:background="@color/white"
+        android:layout_weight=".5"
+        android:src="@drawable/janeaustenend"/>
+
+</LinearLayout>

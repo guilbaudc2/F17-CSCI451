@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LandLayApplication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="intro_text">Jane Austen\'s Books!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_continue">Continue</string>
+    <string name="proceed">Next</string>
+    <string name="spoiler">Spoiler</string>
+    <string name="spoiler_confirm">You sure?</string>
+    <string name="show_more">Show More...</string>
+    <string name="outro_text">Although you\'re at the end, there are thousands of other books to read! Stay tuned, because we\'re constantly adding more!</string>
+</resources>

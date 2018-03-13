@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/layoutPadding"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context="com.example.android.landlayapplication.BookIntroFragment">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorAccent"
+            android:textSize="@dimen/title"
+            android:padding="@dimen/spacing"
+            android:layout_margin="@dimen/spacing"
+            android:text="@string/intro_text"/>
+
+
+        <ImageButton
+            android:id="@+id/imageProceedBtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:background="@color/background"
+            android:src="@drawable/janeaustenbooks"/>
+
+</LinearLayout>

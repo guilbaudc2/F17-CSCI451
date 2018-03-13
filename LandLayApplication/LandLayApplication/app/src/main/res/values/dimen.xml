@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">27dp</dimen>
+    <dimen name="desc">22dp</dimen>
+    <dimen name="spacing">5dp</dimen>
+    <dimen name="layoutPadding">2dp</dimen>
+</resources>

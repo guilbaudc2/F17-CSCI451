@@ -1,0 +1,12 @@
+package com.example.android.landlayapplication;
+
+import android.support.v4.app.Fragment;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class BookViewActivity extends SingleFragmentActivity {
+    @Override
+    public Fragment createFragment() {
+        return new BookDetailFragment();
+    }
+}
