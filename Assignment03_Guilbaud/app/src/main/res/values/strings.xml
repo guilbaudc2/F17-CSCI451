@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment03_Guilbaud</string>
+    <string name="fullName">Catherine Patrice Guilbaud</string>
+    <string name="interestingFactsHeader">Some super cool facts about me:</string>
+    <string name="firstInterestingFact">My older brother and I were born at opposite ends of the US. He was born in Miami, FL and I was born in Burlington, VT.</string>
+    <string name="secondInterestingFact">When I am sleepy, I start singing a lot of songs. They usually come to mind with the last word or phrase I just heard.</string>
+    <string name="thirdInterestingFact">I taught myself how to ride a bicycle when I was 4 years old.</string>
+    <string name="imageCaption">Below - June 2016 - Me (age 27) with one of my newborn, twin first cousins:</string>
+</resources>
