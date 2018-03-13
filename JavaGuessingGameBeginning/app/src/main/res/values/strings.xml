@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaForAndroid</string>
+    <string name="title">Playground</string>
+    <string name="button_guess">Guess</string>
+    <string name="guess_hint">Enter a number between 1 and 100</string>
+    <string name="button_restart">Restart</string>
+</resources>
