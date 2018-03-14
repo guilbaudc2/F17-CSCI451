@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/title_favorite_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/faves_intro_text"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="@dimen/list_names"
+            android:textAlignment="center"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view_favorite_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.example.android.assignment11.FavoritesFragment" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.assignment11.com.example.android.assignment11.RecipePagerActivity">
+
+    <item
+        android:id="@+id/menu_fave"
+        android:icon="@drawable/heart_outline"
+        android:title="@string/favorite"
+        app:showAsAction="ifRoom|withText" />
+</menu>
+
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android">-->
+
+    <!--<group android:checkableBehavior="single">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_item_1"-->
+            <!--android:title="My item 1"-->
+            <!--/>-->
+        <!--&lt;!&ndash;android:icon="@drawable/ic_my_icon"&ndash;&gt;-->
+        <!--<item-->
+            <!--android:id="@+id/nav_item_2"-->
+            <!--android:title="My item 2" />-->
+        <!--&lt;!&ndash;android:icon="@drawable/ic_my_icon"&ndash;&gt;-->
+    <!--</group>-->
+
+    <!--<item android:title="Sub items">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_sub_1"-->
+                <!--android:title="My sub item 1" />-->
+            <!--&lt;!&ndash;android:icon="@drawable/ic_my_icon"&ndash;&gt;-->
+            <!--<item-->
+                <!--android:id="@+id/nav_sub_2"-->
+                <!--android:title="My sub item 2" />-->
+            <!--&lt;!&ndash;android:icon="@drawable/ic_my_icon"&ndash;&gt;-->
+        <!--</menu>-->
+    <!--</item>-->
+
+<!--</menu>-->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_names">25dp</dimen>
+    <dimen name="regular_text">17dp</dimen>
+    <dimen name="padding">7dp</dimen>
+    <dimen name="outer_margin">10dp</dimen>
+    <dimen name="inner_margin">20dp</dimen>
+</resources>
