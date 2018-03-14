@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment09App</string>
+    <string name="intro">All About BTS!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_body">Your introductory source to the group BTS (aka Beyond The Scene, Bangtan Boys, Bangtan Sonyeondan, and Bulletproof Boyscouts - yes, they\'re known by a lot of names). Debuting in 2013 and consisting of 7-members, these lovable guys sing songs that represent today\'s youth - in Korean and internationally.</string>
+    <string name="intro_body2"> Click the image to find out more about them and to hear some of their solo songs.</string>
+    <string name="play_song">Play Solo Song! \u25B6</string>
+    <string name="stop_song">Pause Song \u23F8</string>
+</resources>

@@ -1,0 +1,73 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="@dimen/padding"
+    tools:context="com.example.android.assignment09app.MemberDetailFragment"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/member_stage_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/heading_size"
+            android:textColor="@color/colorPrimaryDark"
+            android:padding="@dimen/padding"/>
+
+        <TextView
+            android:id="@+id/member_real_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/main_text_size"
+            android:padding="@dimen/padding"/>
+
+        <TextView
+            android:id="@+id/member_birth_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/main_text_size"
+            android:padding="@dimen/padding"/>
+
+        <TextView
+            android:id="@+id/member_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/main_text_size"
+            android:padding="@dimen/padding"/>
+
+        <TextView
+            android:id="@+id/member_song_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/main_text_size"
+            android:padding="@dimen/padding"/>
+
+        <ImageView
+            android:id="@+id/member_pic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/member_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/main_text_size"
+            android:padding="@dimen/padding"/>
+
+        <Button
+            android:id="@+id/member_song"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:text="@string/play_song"/>
+        </LinearLayout>
+</ScrollView>

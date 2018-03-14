@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:useDefaultMargins="true">
+    <LinearLayout
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/iv_list_pic"
+            android:layout_width="150dp"
+            android:layout_height="175dp"
+            android:src="@drawable/bts_j_hope"/>
+
+
+        <TextView
+            android:id="@+id/tv_list_nickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="@dimen/title_size"
+            android:text="asdhjkasdaskjd"/>
+
+
+    <!--<ImageView-->
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="175dp"-->
+        <!--android:src="@drawable/bts_jin"/>-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="@dimen/title_size"/>-->
+    <!--<ImageView-->
+
+        <!--android:layout_width="150dp"-->
+        <!--android:layout_height="175dp" />-->
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textSize="@dimen/title_size"/>-->
+
+        </LinearLayout>
+</GridLayout>
