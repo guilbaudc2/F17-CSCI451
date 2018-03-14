@@ -1,6 +1,6 @@
 # F17-CSCI451
 
-This repository describes the projects and files I created for CSCI451 - Mobile App Development.
+This repository describes the applications I developed for CSCI451 - Mobile App Development.
 
 ---
 The Projects are as follows (with branches numbered accordingly):
